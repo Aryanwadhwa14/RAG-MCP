@@ -3,7 +3,7 @@
 An MCP server implementation that provides tools for retrieving and processing documentation through vector search, enabling AI assistants to augment their responses with relevant documentation context.
   
 ## Table of Contents   
-
+    
 - [Features](#features)
 - [Quick Start](#quick-start)
 - [Docker Compose Setup](#docker-compose-setup)
