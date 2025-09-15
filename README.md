@@ -8,7 +8,7 @@ An MCP server implementation that provides tools for retrieving and processing d
 - [Quick Start](#quick-start)
 - [Docker Compose Setup](#docker-compose-setup)
 - [Web Interface](#web-interface)
-- [Configuration](#configuration)
+- [Configuration](#configuration)    
   - [Cline Configuration](#cline-configuration)
   - [Claude Desktop Configuration](#claude-desktop-configuration)
 - [Acknowledgments](#acknowledgments)
